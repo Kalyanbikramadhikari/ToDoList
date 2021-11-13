@@ -1,0 +1,83 @@
+/* .card{
+    height: 400px;
+    width: 300 px;
+    background-color: rgb(154, 194, 226);
+    margin-top: 50px;
+    margin-left: 480px;
+    margin-right: 480px;
+    border-radius: 15px;
+}
+
+.ToDo{
+    background-color: purple;
+}
+input{
+    border: none;
+    outline: none;
+    background: transparent;
+    height: 30 px;
+    top: 10 px;
+    font-size: 20px;
+    font-weight: 500;
+    width: 60%;
+    border-bottom: 2px solid #8566aa;
+}
+.add{
+    height: 30px;
+    border-radius: 10px;
+}
+.add:hover{
+    background-color: green;
+
+}
+li{
+   padding-left: 0px;
+   text-align:  left;
+   font-size: 20px;
+   font-weight: 500;
+   min-height: 40px;
+   display: flex;
+   align-items: center;
+   color: #8566aa;
+   text-transform: capitalize;
+}
+.fa-trash-alt{
+    margin-left: 10%;
+} */
+
+.cardee{
+    width: 325 px;
+    height: 400 px;
+    position: relative;
+    color:azure;
+    border-color: red;
+}
+.card{
+
+    background-color: rgb(202, 202, 202);
+    margin-top: 50px;
+    margin-left: 480px;
+    margin-right: 480px;
+    border-radius: 15px;
+    position: relative;
+    height: 500px;
+
+}
+.card:hover{
+    box-shadow: 0 4px 15px    rgb(223, 12, 12);
+    transition: 0.3s;
+    transform: scale(1.1); 
+}
+h1{
+    background-color: rgb(72, 196, 253);
+}
+.fa-trash-alt{
+    margin-left: 10%;
+    color: red;
+}
+li{
+    display: flex;
+    font-weight: 500;
+    font-size: 20px;
+   
+}
